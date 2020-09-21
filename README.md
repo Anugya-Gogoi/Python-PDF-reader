@@ -5,9 +5,8 @@ A Python program for extracting text from a PDF
 PyPDF2 module of Python
 
 ## How to use?
-1. Make a .py file in your python text editor
-2. Install the required module (PyPDF2)
-3. Write the entire code of pypdf.py
+1. Install the required module (PyPDF2)
+2. Open the file pypdf.py in your Python text editor
 
 ## Installation of modules 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the module
